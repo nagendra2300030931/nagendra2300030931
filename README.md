@@ -7,6 +7,13 @@
 
 <br />
 
+<div align="center">
+  <!-- PASTE YOUR UPLOADED IMAGE HERE -->
+  <img src="./developer_setup.png" width="70%" style="border-radius: 16px; border: 2px solid #39FF14; box-shadow: 0 0 20px rgba(57, 255, 20, 0.3);" alt="Developer Setup" />
+</div>
+
+<br />
+
 ---
 
 ### 🌌 About Me
