@@ -7,12 +7,22 @@
 
 ---
 
-### 🌌 About Me
-I am a passionate software developer and researcher who bridges the gap between **Generative Artificial Intelligence (AI)**, **Modern Full-Stack Applications**, and **DevOps Infrastructure**. 
-
-- 🤖 **Deep Learning Focus**: Extensive work with **Generative Adversarial Networks (GANs)**, including Vanilla GANs, Deep Convolutional GANs (DCGAN), Conditional GANs (cGAN), and Wasserstein GANs (WGAN) for synthesizing complex datasets (ECG signals, medical imaging, agricultural disease classification).
-- 🌐 **Full-Stack Engineering**: Crafting responsive, scalable, and interactive frontends and backends using JavaScript, Java, CSS, and modern web frameworks.
-- ⚙️ **DevOps & Cloud Native**: Automating deployments, dockerizing full-stack applications, and templating complex Kubernetes infrastructure using Helm charts.
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>🌌 About Me</h3>
+      <p>I am a passionate software developer and researcher who bridges the gap between <strong>Generative Artificial Intelligence (AI)</strong>, <strong>Modern Full-Stack Applications</strong>, and <strong>DevOps Infrastructure</strong>.</p>
+      <ul>
+        <li>🤖 <strong>Deep Learning Focus</strong>: Extensive work with <strong>Generative Adversarial Networks (GANs)</strong>, including Vanilla GANs, Deep Convolutional GANs (DCGAN), Conditional GANs (cGAN), and Wasserstein GANs (WGAN) for synthesizing complex datasets (ECG signals, medical imaging, agricultural disease classification).</li>
+        <li>🌐 <strong>Full-Stack Engineering</strong>: Crafting responsive, scalable, and interactive frontends and backends using JavaScript, Java, CSS, and modern web frameworks.</li>
+        <li>⚙️ <strong>DevOps & Cloud Native</strong>: Automating deployments, dockerizing full-stack applications, and templating complex Kubernetes infrastructure using Helm charts.</li>
+      </ul>
+    </td>
+    <td valign="middle" width="45%" align="center">
+      <img src="./developer_illustration.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Developer Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -20,7 +30,7 @@ I am a passionate software developer and researcher who bridges the gap between 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **AI / Deep Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **AI / Deep Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | **Web Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
