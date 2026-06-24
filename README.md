@@ -5,24 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=GANs+%26+Deep+Learning+Enthusiast;Full-Stack+Web+Developer;DevOps+%26+Cloud+Native+Practitioner;Dockerizing+the+Future" alt="Typing SVG" />
 </div>
 
+<br />
+
+<div align="center">
+  <!-- UPLOAD YOUR IMAGE BY PRESSING CTRL+V HERE -->
+  <img src="./developer_illustration.png" width="70%" style="border-radius: 16px; border: 2px solid #39FF14; box-shadow: 0 0 20px rgba(57, 255, 20, 0.3);" alt="Developer Illustration" />
+</div>
+
+<br />
+
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h3>🌌 About Me</h3>
-      <p>I am a passionate software developer and researcher who bridges the gap between <strong>Generative Artificial Intelligence (AI)</strong>, <strong>Modern Full-Stack Applications</strong>, and <strong>DevOps Infrastructure</strong>.</p>
-      <ul>
-        <li>🤖 <strong>Deep Learning Focus</strong>: Extensive work with <strong>Generative Adversarial Networks (GANs)</strong>, including Vanilla GANs, Deep Convolutional GANs (DCGAN), Conditional GANs (cGAN), and Wasserstein GANs (WGAN) for synthesizing complex datasets (ECG signals, medical imaging, agricultural disease classification).</li>
-        <li>🌐 <strong>Full-Stack Engineering</strong>: Crafting responsive, scalable, and interactive frontends and backends using JavaScript, Java, CSS, and modern web frameworks.</li>
-        <li>⚙️ <strong>DevOps & Cloud Native</strong>: Automating deployments, dockerizing full-stack applications, and templating complex Kubernetes infrastructure using Helm charts.</li>
-      </ul>
-    </td>
-    <td valign="middle" width="45%" align="center">
-      <img src="./developer_illustration.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Developer Illustration" />
-    </td>
-  </tr>
-</table>
+### 🌌 About Me
+I am a passionate software developer and researcher who bridges the gap between **Generative Artificial Intelligence (AI)**, **Modern Full-Stack Applications**, and **DevOps Infrastructure**. 
+
+- 🤖 **Deep Learning Focus**: Extensive work with **Generative Adversarial Networks (GANs)**, including Vanilla GANs, Deep Convolutional GANs (DCGAN), Conditional GANs (cGAN), and Wasserstein GANs (WGAN) for synthesizing complex datasets (ECG signals, medical imaging, agricultural disease classification).
+- 🌐 **Full-Stack Engineering**: Crafting responsive, scalable, and interactive frontends and backends using JavaScript, Java, CSS, and modern web frameworks.
+- ⚙️ **DevOps & Cloud Native**: Automating deployments, dockerizing full-stack applications, and templating complex Kubernetes infrastructure using Helm charts.
 
 ---
 
