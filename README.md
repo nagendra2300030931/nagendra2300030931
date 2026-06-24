@@ -7,13 +7,6 @@
 
 <br />
 
-<div align="center">
-  <!-- UPLOAD YOUR IMAGE BY PRESSING CTRL+V HERE -->
-  <img src="./developer_illustration.png" width="70%" style="border-radius: 16px; border: 2px solid #39FF14; box-shadow: 0 0 20px rgba(57, 255, 20, 0.3);" alt="Developer Illustration" />
-</div>
-
-<br />
-
 ---
 
 ### 🌌 About Me
